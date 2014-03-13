@@ -6,6 +6,9 @@ footer{
     margin-top: 30px;
     padding: 5px auto;
 }
+h1{
+    color: #033E6B;
+}
 
 [class^="icon-"]{
     color: #033E6B;
