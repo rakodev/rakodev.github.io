@@ -1,0 +1,19 @@
+body{
+    /*width: 100%;*/
+    text-align: center;
+}
+footer{
+    margin-top: 30px;
+    padding: 5px auto;
+}
+
+[class^="icon-"]{
+    color: #033E6B;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 28px;
+}
+[class^="icon-"]:hover{
+    color: #fff;
+    background: #033E6B;
+}
