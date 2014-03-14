@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'fontello';
-  src: url('../font/fontello.eot?89337146');
-  src: url('../font/fontello.eot?89337146#iefix') format('embedded-opentype'),
-       url('../font/fontello.woff?89337146') format('woff'),
-       url('../font/fontello.ttf?89337146') format('truetype'),
-       url('../font/fontello.svg?89337146#fontello') format('svg');
+  src: url('../font/fontello.eot?14724898');
+  src: url('../font/fontello.eot?14724898#iefix') format('embedded-opentype'),
+       url('../font/fontello.woff?14724898') format('woff'),
+       url('../font/fontello.ttf?14724898') format('truetype'),
+       url('../font/fontello.svg?14724898#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'fontello';
-    src: url('../font/fontello.svg?89337146#fontello') format('svg');
+    src: url('../font/fontello.svg?14724898#fontello') format('svg');
   }
 }
 */
@@ -52,5 +52,7 @@
  
 .icon-home:before { content: '\e800'; } /* '' */
 .icon-email:before { content: '\e803'; } /* '' */
+.icon-github-circled:before { content: '\e804'; } /* '' */
+.icon-stackoverflow:before { content: '\e805'; } /* '' */
 .icon-twitter-bird:before { content: '\e801'; } /* '' */
 .icon-linkedin-rect:before { content: '\e802'; } /* '' */
