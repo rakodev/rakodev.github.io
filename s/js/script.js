@@ -7,5 +7,14 @@ var videos = [
 ];
 
 $(function() {
+    var YTPlayerOptions = {
+        videoURL:'https://www.youtube.com/watch?v=6hk6y8dhkeE',
+        containment:'body',
+        autoPlay:true, 
+        mute:true, 
+        startAt:45, 
+        opacity:1
+    };
+    $('.player').data('property',YTPlayerOptions);
     $(".player").mb_YTPlayer();
 });
