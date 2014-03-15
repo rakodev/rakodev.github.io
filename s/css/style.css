@@ -7,7 +7,7 @@
 body{
     /*width: 100%;*/
     text-align: center;
-    background: url(../img/base-jump.jpg) no-repeat;
+    background: url(../img/base-jumping.jpg) no-repeat bottom;
     background-attachment:fixed;
     background-position:center; 
     background-size: 100% 100%;
