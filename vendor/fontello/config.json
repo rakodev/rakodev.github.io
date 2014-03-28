@@ -13,6 +13,18 @@
       "src": "fontawesome"
     },
     {
+      "uid": "e566d3f1d24f22981f6552d5188e7265",
+      "css": "gplus",
+      "code": 59398,
+      "src": "zocial"
+    },
+    {
+      "uid": "1884ff7f89cc02840606d28f9bcf930a",
+      "css": "skype",
+      "code": 59399,
+      "src": "zocial"
+    },
+    {
       "uid": "a58032f4aafd0eec54803075f5b320d4",
       "css": "email",
       "code": 59395,
