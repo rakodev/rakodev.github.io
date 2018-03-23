@@ -16,8 +16,8 @@ footer{
     padding: 5px auto;
 }
 h1{
-    color: darkblue;
-    text-shadow: 2px 2px 2px white;
+    color: white;
+    text-shadow: 2px 2px 2px blue;
 }
 section{
     color: whitesmoke;
@@ -32,7 +32,7 @@ h1:hover, section:hover {
     text-shadow: none;
 }
 [class^="icon-"]{
-    color: darkgreen;
+    color: darkblue;
     padding: 5px 10px;
     border-radius: 4px;
     font-size: 28px;
