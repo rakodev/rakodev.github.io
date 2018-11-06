@@ -64,6 +64,7 @@ body {
 }
 .box-shadow__hover:hover {
     box-shadow: 0 4px 24px 0 rgba(0,0,0,0.1);
+	border-radius: 12px;
 }
 
 /* Section */
